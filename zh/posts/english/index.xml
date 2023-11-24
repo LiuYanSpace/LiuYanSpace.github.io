@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>🗽 󠁢英语 on YanYan Blog</title>
+    <link>https://LiuYanSpace.github.io/zh/posts/english/</link>
+    <description>Recent content in 🗽 󠁢英语 on YanYan Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 24 Nov 2023 15:35:10 +0800</lastBuildDate><atom:link href="https://LiuYanSpace.github.io/zh/posts/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>尚雯婕语言学习</title>
+      <link>https://LiuYanSpace.github.io/zh/posts/english/second/</link>
+      <pubDate>Fri, 24 Nov 2023 15:35:10 +0800</pubDate>
+      
+      <guid>https://LiuYanSpace.github.io/zh/posts/english/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>影子跟读法</title>
+      <link>https://LiuYanSpace.github.io/zh/posts/english/sogood/</link>
+      <pubDate>Fri, 24 Nov 2023 15:08:54 +0800</pubDate>
+      
+      <guid>https://LiuYanSpace.github.io/zh/posts/english/sogood/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
